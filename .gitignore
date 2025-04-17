@@ -23,3 +23,9 @@ go.work.sum
 
 # env file
 .env
+
+/.idea/go-crawlly.iml
+/.idea/material_theme_project_new.xml
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/.gitignore
